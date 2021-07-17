@@ -21,7 +21,7 @@ The app is deployed at heroku- https://yelp-camp2018.herokuapp.com/
 
 ```
 git clone https://github.com/Ritik919/YelpCamp.git
-cd yelpcamp
+cd YelpCamp
 npm install
 ```
 
