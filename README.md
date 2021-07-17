@@ -20,7 +20,7 @@ The app is deployed at heroku- https://yelp-camp2018.herokuapp.com/
 2. Create a cloudinary account to get an API key and secret code
 
 ```
-git clone https://github.com/Ritik919/yelpcamp.git
+git clone https://github.com/Ritik919/YelpCamp.git
 cd yelpcamp
 npm install
 ```
